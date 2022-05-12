@@ -1,4 +1,4 @@
-baseURL: "https://marvelous-dango-71941c.netlify.app/"
+baseURL = "https://marvelous-dango-71941c.netlify.app/"
 title = "My New Hugo Site"
 
 [menu]
